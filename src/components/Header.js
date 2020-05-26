@@ -7,24 +7,10 @@ const Header = () => {
   return (
     <header>
       <Container type="content">
-        <div>
-          <p>Covid-19 | Lençóis Paulista</p>
-          <ul>
-            <li>Atualizado em em 25/05/2020</li>
-          </ul>
-        </div>
-        <div>
-          <p>
-            Criado por{' '}
-            <a
-              href="https://www.linkedin.com/in/denilson-alves"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Denilson Alves
-            </a>
-          </p>
-        </div>
+        <p>Covid-19 | Lençóis Paulista</p>
+        <ul>
+          <li>Atualizado em em 25/05/2020</li>
+        </ul>
       </Container>
     </header>
   );
