@@ -23,9 +23,14 @@ header {
 
   a {
     display: block;
-    color: orangered;
+    color: $white;
     text-decoration: none;
     padding: 0 0.5em;
+  }
+
+  a:hover {
+    transition: 0.4s;
+    color: orangered;
   }
 
   p {
