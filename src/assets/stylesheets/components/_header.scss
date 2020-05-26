@@ -5,9 +5,10 @@ header {
 
   .container {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     height: 2.5em;
     line-height: 2.5em;
+    text-align: center;
   }
 
   ul {
@@ -22,7 +23,7 @@ header {
 
   a {
     display: block;
-    color: lighten($gatsby-purple, 50);
+    color: orangered;
     text-decoration: none;
     padding: 0 0.5em;
   }
