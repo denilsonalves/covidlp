@@ -1,0 +1,380 @@
+[
+  {
+    "bairro": "Alfredo Guedes",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.591189,
+      "long": -48.71316
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Antonio Lozenzeti Filho",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.909964,
+      "long": -48.778078
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Bela Vista I",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.607796,
+      "long": -48.802925
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Cachoeirinha",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.609905,
+      "long": -48.796034
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Caju",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.623529,
+      "long": -48.79256
+    },
+    "casos": 9
+  },
+  {
+    "bairro": "Capoani",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.594339,
+      "long": -48.802493
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Cecap",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.59871,
+      "long": -48.782573
+    },
+    "casos": 12
+  },
+  {
+    "bairro": "Centro",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.598437,
+      "long": -48.798415
+    },
+    "casos": 13
+  },
+  {
+    "bairro": "Cruzeiro",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.589541,
+      "long": -48.801519
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Grajau",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.618673,
+      "long": -48.788741
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Ibaté",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.62677,
+      "long": -48.791517
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Irerê",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.606991,
+      "long": -48.801187
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Itapuã",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.602208,
+      "long": -48.789018
+    },
+    "casos": 10
+  },
+  {
+    "bairro": "Jd. Alvorada",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.59128,
+      "long": -48.798714
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Jd. América",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.58261,
+      "long": -48.803103
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Jd. Carolina",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.614836,
+      "long": -48.784433
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Jd. Ipê",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.598794,
+      "long": -48.807861
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Jd. Nações",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.573458,
+      "long": -48.818191
+    },
+    "casos": 4
+  },
+  {
+    "bairro": "Jd. Planalto",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.606556,
+      "long": -48.783377
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Jd. Primavera",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.591083,
+      "long": -48.783902
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Jd. Príncipe",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.605643,
+      "long": -48.789165
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "João Paccola",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.602911,
+      "long": -48.784618
+    },
+    "casos": 10
+  },
+  {
+    "bairro": "Julio Ferrari",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.58512,
+      "long": -48.813429
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Mamedina",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.597419,
+      "long": -48.792157
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Maria Luiza I",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.607783,
+      "long": -48.788922
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Maria Luiza II",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.610557,
+      "long": -48.789802
+    },
+    "casos": 2
+  },
+  {
+    "bairro": "Maria Luiza IV",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.578902,
+      "long": -48.820752
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Monte Azul",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.612228,
+      "long": -48.791176
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Nova Lençóis",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.575338,
+      "long": -48.813704
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Núcleo",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.581446,
+      "long": -48.806481
+    },
+    "casos": 4
+  },
+  {
+    "bairro": "Pq. Elizabete",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.585749,
+      "long": -48.799027
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Rondon",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.587398,
+      "long": -48.806599
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Santa Terezinha",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.610119,
+      "long": -48.786085
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Santa Terezinha II",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.611043,
+      "long": -48.78387
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "São João",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.589327,
+      "long": -48.796372
+    },
+    "casos": 4
+  },
+  {
+    "bairro": "São José",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.595855,
+      "long": -48.78833
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Ubirama",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.6058,
+      "long": -48.812728
+    },
+    "casos": 5
+  },
+  {
+    "bairro": "Vila Antonieta",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.601408,
+      "long": -48.793815
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Vila Baccilli",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.589615,
+      "long": -48.794002
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Vila Contente",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.59141,
+      "long": -48.794019
+    },
+    "casos": 3
+  },
+  {
+    "bairro": "Vila Repke",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.592612,
+      "long": -48.788711
+    },
+    "casos": 1
+  },
+  {
+    "bairro": "Village",
+    "bairroInfo": {
+      "_id": 4,
+      "lat": -22.612186,
+      "long": -48.805136
+    },
+    "casos": 2
+  }
+]
